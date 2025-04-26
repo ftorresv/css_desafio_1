@@ -1,0 +1,20 @@
+.home{
+    display: flex;
+}
+.contactos{
+    border: 3px;
+    border-radius: 5px;
+    border-color: red;
+    border-style: solid;
+    width: 20%;
+    height: 100vh;
+}
+.hero-image{
+    border: 3px;
+    border-radius: 5px;
+    border-color: green;
+    border-style: solid;
+    width: 80%;
+    height: 100vh;
+}
+   
